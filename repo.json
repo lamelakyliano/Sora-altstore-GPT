@@ -15,7 +15,9 @@
       "tintColor": "5865F2",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/cranci1/Sora/main/screenshot1.png"
-      ]
+      ],
+      "size": 51200000,
+      "category": "utilities"
     }
   ]
 }
