@@ -10,8 +10,8 @@
       "localizedDescription": "Sora Client voor iOS, installeerbaar via AltStore.",
       "version": "1.0.0",
       "versionDate": "2025-07-03T00:00:00Z",
-      "downloadURL": "https://github.com/cranci1/Sora/releases/download/1.0.0/Sulfur.ipa",
-      "signature": "signature",
+      "downloadURL": "https://raw.githubusercontent.com/lamelakyliano/Sora-altstore-GPT/main/Sulfur.ipa",
+      "signature": "https://raw.githubusercontent.com/lamelakyliano/Sora-altstore-GPT/main/signature",
       "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/main/icon.png",
       "tintColor": "5865F2",
       "screenshotURLs": [
@@ -23,4 +23,5 @@
       "marketplaceID": "6742741043"
     }
   ]
+}
 }
