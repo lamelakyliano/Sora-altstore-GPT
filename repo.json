@@ -18,7 +18,7 @@
       "localizedDescription": "Sora is a modular web scraping application designed to work exclusively with custom modules, seamlessly integrated with media trackers like AniList. It allows users to create and share modules for various websites, enabling them to scrape data and automate tasks. Sora is built on the JScore framework, which provides a powerful and flexible environment for module development. The app is designed to be user-friendly and accessible, making it easy for anyone to create their own modules without any programming knowledge.",
 
       "beta": false,
-      "version": "1.0.0.",
+      "version": "1.0.0",
       "versionDate": "2025-05-010T00:30:00-04:00",
       "versionDescription": "Version 1.0.0 only includes crash fixes",
       "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/Sora/Assets.xcassets/AppIcon.appiconset/darkmode.png",
@@ -34,7 +34,7 @@
       ],
       "versions": [
         {
-          "version": "1.0.0.",
+          "version": "1.0.0",
           "buildVersion": "45",
           "date": "2025-05-10T00:30:00-04:00",
           "localizedDescription": "Version 0.2.3 only includes crash fixes",
