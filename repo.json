@@ -1,0 +1,7 @@
+{
+  "name": "Cranci's Sulfur Repo",
+  "identifier": "com.cranci1.sulfurrepo",
+  "apps": [
+    "sulfur.json"
+  ]
+}
